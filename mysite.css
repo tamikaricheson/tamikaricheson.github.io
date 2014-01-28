@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'Varela Round';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Varela Round'), local('VarelaRound-Regular'), url(http://themes.googleusercontent.com/static/fonts/varelaround/v4/APH4jr0uSos5wiut5cpjrqRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+}
+
+html {
+
+background: #f0f0f0;
+
+h1{ backgorund: white; font size: 400%;
+	text-align: center; 
+	}
+	
+  body { color: #f0f0f0; 
+    background: cornsilk;
+    width:700px; 
+    margin: 50px auto; 
+    font-family: 'Varela Round';
+    padding: 30px;
+
+    border-radius: 20px;
+    color: dimgray;
+  }
+
+    .contact {text-align: center;}
+
+
+
+
+header {text-align: center; text-shadow: 0px 2px 3px #666;}
+header img{margin-bottom: 20px; border-radius: 20px;}
+img {border-radius: 20px}
+header nav{display:block;}
+
+nav ul {list-style: none; margin-left: 0; padding-left: 0}
+
+nav li {display:inline-block;}
+
+nav a {padding: 5px 15px;}
+
+
+
+h2{ color: #; background: f0f0f0; 
+  font-size: 150%}
+
+h3{ color: #000000; background: f0f0f0; text-align: center; text-transform: uppercase;}
+
+h4{ color: #00000; background: f0f0f0; 
+    text-align: center;}
+
+h5{text-align: center;}
