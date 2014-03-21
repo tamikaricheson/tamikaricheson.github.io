@@ -1,8 +1,8 @@
 @font-face {
-  font-family: 'Varela Round';
+  font-family: 'Gilda Display', serif;
   font-style: normal;
   font-weight: 400;
-  src: local('Varela Round'), local('VarelaRound-Regular'), url(http://themes.googleusercontent.com/static/fonts/varelaround/v4/APH4jr0uSos5wiut5cpjrqRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+  src: local('Gilda Display'), local('Gilda Display-Regular'), url(<link href='http://fonts.googleapis.com/css?family=Gilda+Display'). 
 }
 
 html {
@@ -13,11 +13,117 @@ h1{ backgorund: white; font size: 400%;
 	text-align: center; 
 	}
 	
-  body { color: #f0f0f0; 
+  body { color: <!DOCTYPE html>
+<html>
+
+<head>
+
+<head>
+<title>Tamika Y. Richeson</title>
+</head>
+<center>
+<body>
+<header>
+<img src="Richesonheadshot.jpg" width="860" height="639">
+</head>
+     
+
+<center>
+<h1>Tamika Y. Richeson </h>
+<div>
+	<center>
+      <h1><Tamika Y. Richeson /></h1>
+    </div>
+	 
+    <center>
+ <div id="menu">
+<ul> 
+<b><a href="Home.html">Home</a></b>
+
+
+<b><a href="http://www.virginia.edu/history/user/348">Academic Website</a></b>
+
+
+<b><a href="Cv.html">CV</a></b>
+
+
+<b><a href="Contact.html">Contact</a></b>
+</ul></div>
+      </ul>
+      
+
+	<br><p>
+	<p>Tamika Richeson is a doctoral candidate in History at the University of Virginia. Her 
+
+work explores black female criminality in Civil War era Washington, D.C. to understand the
+ 
+racial and gendered context in which American criminal law took shape. Her interests include
+
+nineteenth century social and cultural history, African American Studies, women and gender
+ 
+studies, digital humanities, criminal law, and public history.</br></p>
+
+
+
+
+	<p>Richeson earned a Bachelor of Arts degree in Black World Studies at Miami University of
+ 
+Ohio, a Master of Arts degree in African American Studies at Columbia University and a 
+
+Master of Arts degree in History at the University of Virginia. She is currently a graduate
+ 
+fellow in the digital humanities at the University of Virginia Scholar's Lab, and serves 
+
+on the Prince William County Historic Preservation Foundation executive board, and the 
+
+President's Commission on Slavery and the University. Richeson has recently been awarded 
+
+the Woodrow Wilson Dissertation Fellowship in Women's Studies.</br></p></div>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  <center>
+<div id="SocialMedia"style="background-color:black;clear:both;text-align:center;">
+	<a href="http://twitter.com/TamikaRicheson"><img src="twitter.png"/></a>
+	<a href="http://facebook.com/t2virtue"><img src="facebook.png"/></a>
+	<a href="http://linkedin.com/pub/tamika-richeson/74/232/6b6/"><img src="linkedin.png"/></a>
+</div>
+
+</body>
+</html>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37247429-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+  
+
+
+
+
+
+
+
+
+
+#f0f0f0; 
     background: cornsilk;
     width:700px; 
     margin: 50px auto; 
-    font-family: 'Varela Round';
+    font-family: 'Gilda Display';
     padding: 30px;
 
     border-radius: 20px;
